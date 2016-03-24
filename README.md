@@ -8,3 +8,4 @@ One more time.  Just to cement the process and check out all of the little butto
 
 See, I was right.  My last attempt I forgot to create a branch first so I only edited the README file alone.
 
+Got it.  Create branch, choose file, click edit pencil, edit file, make a commit note, click commit, create new pull request, title the pull request, merge pull request and confirm.
